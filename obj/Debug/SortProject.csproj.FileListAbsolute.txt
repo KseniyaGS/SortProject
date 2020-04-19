@@ -1,0 +1,9 @@
+C:\Projects\SortProject\bin\Debug\SortProject.exe.config
+C:\Projects\SortProject\bin\Debug\SortProject.exe
+C:\Projects\SortProject\bin\Debug\SortProject.pdb
+C:\Projects\SortProject\obj\Debug\SortProject.csprojAssemblyReference.cache
+C:\Projects\SortProject\obj\Debug\SortProject.MainForm.resources
+C:\Projects\SortProject\obj\Debug\SortProject.Properties.Resources.resources
+C:\Projects\SortProject\obj\Debug\SortProject.csproj.GenerateResource.cache
+C:\Projects\SortProject\obj\Debug\SortProject.exe
+C:\Projects\SortProject\obj\Debug\SortProject.pdb
